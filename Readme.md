@@ -1,3 +1,3 @@
-#chai aur backend
+#backend
 
-Thisis a video series oon backed development
+This is a complete backed development repository
